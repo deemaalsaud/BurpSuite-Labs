@@ -14,6 +14,8 @@ I’m keeping everything here so I can track my progress and have notes to look 
 - [01 – Hidden products](sqli/01-hidden-products.md)
 - [02 – Login bypass](sqli/02-login-bypass.md)
 - [03 – DB type/version (Oracle)](sqli/03-db-version-oracle.md)
+- [04 – DB type/version (MySQL & Microsoft)](sqli/04-db-version-mysql-mssql.md)
+
 
 
 ---
