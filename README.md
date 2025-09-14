@@ -15,6 +15,10 @@ I’m keeping everything here so I can track my progress and have notes to look 
 - [02 – Login bypass](sqli/02-login-bypass.md)
 - [03 – DB type/version (Oracle)](sqli/03-db-version-oracle.md)
 - [04 – DB type/version (MySQL & Microsoft)](sqli/04-db-version-mysql-mssql.md)
+- [05 – SQLi: Listing the database contents (non-Oracle)](sqli/05-list-db-contents-non-oracle.md)
+- [06 – SQLi: Listing the database contents (Oracle)](sqli/06-list-db-contents-oracle.md)
+
+
 
 
 
