@@ -1,7 +1,8 @@
-# Lab 04 – SQLi: Querying DB type & version (MySQL & Microsoft)
+# Lab 05 – SQLi: Listing the database contents (non-Oracle)
 
-Goal:
-figure out the database type/version when the backend is MySQL or Microsoft SQL.
+Goal:  
+use SQL injection to enumerate the database contents on a non-Oracle backend (e.g., MySQL/MSSQL).  
+specifically → extract table names and column names by querying the `information_schema` tables.
 
 What I did: 
 - first i tested if its vulnerable to SQL injection by just typing ' in category
