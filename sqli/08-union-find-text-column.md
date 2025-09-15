@@ -14,5 +14,5 @@ so I tested each column one by one: ' UNION SELECT 'jyOVdY',NULL,NULL-- gave me 
 ' UNION SELECT NULL,'jyOVdY',NULL-- worked !
 
 ## Notes:
-this lab is a nice confidence boost 
+this lab was a nice confidence boost 
 
