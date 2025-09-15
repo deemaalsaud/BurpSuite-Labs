@@ -17,6 +17,8 @@ I’m keeping everything here so I can track my progress and have notes to look 
 - [04 – DB type/version (MySQL & Microsoft)](sqli/04-db-version-mysql-mssql.md)
 - [05 – SQLi: Listing the database contents (non-Oracle)](sqli/05-list-db-contents-non-oracle.md)
 - [06 – SQLi: Listing the database contents (Oracle)](sqli/06-list-db-contents-oracle.md)
+- [07 – SQLi (UNION): Determine number of columns](sqli/07-union-num-columns.md)
+
 
 
 
