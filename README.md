@@ -19,6 +19,8 @@ I’m keeping everything here so I can track my progress and have notes to look 
 - [06 – SQLi: Listing the database contents (Oracle)](sqli/06-list-db-contents-oracle.md)
 - [07 – SQLi (UNION): Determine number of columns](sqli/07-union-num-columns.md)
 - [08 – SQLi (UNION): Find a column containing text](sqli/08-union-find-text-column.md)
+- [09 – SQLi (UNION): Retrieving data from other tables](sqli/09-union-retrieve-other-tables.md)
+
 
 
 
