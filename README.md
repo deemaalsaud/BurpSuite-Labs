@@ -20,6 +20,8 @@ I’m keeping everything here so I can track my progress and have notes to look 
 - [07 – SQLi (UNION): Determine number of columns](sqli/07-union-num-columns.md)
 - [08 – SQLi (UNION): Find a column containing text](sqli/08-union-find-text-column.md)
 - [09 – SQLi (UNION): Retrieving data from other tables](sqli/09-union-retrieve-other-tables.md)
+- [10 – SQLi (UNION): Retrieving multiple values in a single column](sqli/10-union-concat-single-column.md)
+
 
 
 
