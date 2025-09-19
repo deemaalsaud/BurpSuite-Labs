@@ -32,7 +32,7 @@ To get the length, I tested boolean conditions like: ... AND (SELECT username FR
 
 I first tested big numbers (`>30`) to narrow range, then used a 1..30 payload list in Intruder to check every N and found the correct length -> 20
 
-- **Step 5 — Extract each character**  
+- **Step 5 — Extract each character**  using clusterbombs
 To discover each character I used substring tests: ... AND (SELECT SUBSTRING(password, i, 1) FROM users WHERE username='administrator') = 'a'--
 
 where `i` is the position (1..20). This checks whether the character at position `i` is `'a'`.
