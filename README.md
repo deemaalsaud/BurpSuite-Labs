@@ -21,7 +21,7 @@ I’m keeping everything here so I can track my progress and have notes to look 
 - [08 – SQLi (UNION): Find a column containing text](sqli/08-union-find-text-column.md)
 - [09 – SQLi (UNION): Retrieving data from other tables](sqli/09-union-retrieve-other-tables.md)
 - [10 – SQLi (UNION): Retrieving multiple values in a single column](sqli/10-union-concat-single-column.md)
-- [11 – Blind SQLi (conditional responses)](sqli/11-blind-conditional.md) — boolean-based blind extraction (length + substring/ASCII).
+- [11 – Blind SQLi (conditional responses)](sqli/11-blind-conditional.md) 
 
 
 
